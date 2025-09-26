@@ -1,5 +1,5 @@
 ## Inceptor Lite Architecture
-
+```mermaid
 graph TD
     A[main.go] --> B[omc: Must-Gather & Operator Analyzer]
     A --> C[kcs: KCS Knowledge Search]
